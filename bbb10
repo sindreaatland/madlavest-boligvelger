@@ -1,5 +1,5 @@
 
-function load-bbb10()
+function load_bbb10()
 {
         ;(function ($, window, document, undefined) {
                 $(document).ready(function() {
